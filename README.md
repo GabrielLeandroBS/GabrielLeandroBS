@@ -9,7 +9,7 @@
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <div style="width:100%;height:0;padding-bottom:127%;position:relative;"><iframe src="https://giphy.com/embed/6fScAIQR0P0xW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dancing-dance-star-wars-6fScAIQR0P0xW">via GIPHY</a></p>
+  <img align="right" alt="Rafa-yoda" src="https://media1.giphy.com/media/hqoInD6ATfvW0/giphy.webp?cid=6c09b952e4ef8ff84e51335c6e4ed9e997174bfe49689153&rid=giphy.webp&ct=g">
 </div>
   
   ##
