@@ -9,7 +9,7 @@
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="right" alt="Gabriel-yoda"  width="150" src="https://media1.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp?cid=6c09b95210f67356dae6a92a73277632292a7fcba23c905f&rid=giphy.webp&ct=g">
+  <img align="right" alt="Gabriel-yoda"  width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
   
   ##
